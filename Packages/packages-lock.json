@@ -83,8 +83,8 @@
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.unity.2d.sprite": "1.0.0",
-        "com.unity.ugui": "1.0.0"
+        "com.unity.ugui": "1.0.0",
+        "com.unity.2d.sprite": "1.0.0"
       },
       "url": "https://packages.unity.com"
     },

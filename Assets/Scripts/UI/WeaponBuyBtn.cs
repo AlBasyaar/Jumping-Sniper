@@ -74,7 +74,7 @@ public class WeaponBuyBtn : MonoBehaviour
         else
         {
             coinImage.enabled = false;
-            buttonText.text = "Equip";
+            buttonText.text = "Pakai";
         }
     }
     public void UseButton()

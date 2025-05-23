@@ -25,6 +25,6 @@ public class ActualScoreDisplay : MonoBehaviour
         {
             maxAltura = (int)player.position.y;
         }
-        text.text = "Score: " + (HighScoreSet.gameScore + maxAltura);
+        text.text = "Skor: " + (HighScoreSet.gameScore + maxAltura);
     }
 }
