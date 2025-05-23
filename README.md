@@ -1,6 +1,6 @@
 # Infinity rush
 
-2D Infinite jumper with a shooter twist!
+2D Infinite jumper with a shooter twist
 
 Originaly made in **48 hours** for the **Kenney Jam 2019**; Theme "**Unlikely Combinations**"
 
